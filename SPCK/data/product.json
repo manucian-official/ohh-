@@ -1,0 +1,24 @@
+[
+{
+"title": "Sneakers",
+"price": 2000000,
+"category": "Shoes",
+"size": "L",
+"stock": 5,
+"image": "images/sneakers.png",
+"description": "The best sneakers in the world!",
+"item_id": 1,
+"quantity": 1
+},
+{
+"title": "Jersey",
+"price": 20000000,
+"category": "Jersey",
+"size": "XL",
+"stock": 3,
+"image": "images/jersey.jpg",
+"description": "hahahaha",
+"item_id": 2,
+"quantity": 1
+}
+]
